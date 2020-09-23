@@ -89,7 +89,7 @@ gpg --list-sigs
 ### Criptografar arquivos
 
 ```
-gpg --output arquivo.txt.gpg --encrypt --recipient <email_do_destinatario> arquivo.txt
+gpg --output arquivo.txt.gpg --encrypt --recipient <e-mail-chave> arquivo.txt
 ```
 
 ### Descriptografando arquivos
